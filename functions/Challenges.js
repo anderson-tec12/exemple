@@ -41,11 +41,11 @@ class Challenges{
       
   }
 
+  HOTFIX(){}
+
 }
 
-// const a = new Challenges()
 
-// console.log(a.reverseArray([3,2,1]))
 
 module.exports = Challenges
 
